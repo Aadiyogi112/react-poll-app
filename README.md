@@ -26,7 +26,7 @@ Make sure you have **Node.js** and **npm** installed. You can download and insta
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-polling-app.git
+   git clone https://github.com/Aadiyogi112/react-poll-app.git
 
 2. Navigate into the project directory:
 
@@ -41,5 +41,8 @@ Make sure you have **Node.js** and **npm** installed. You can download and insta
 
 5. Open your browser and go to: 
 
-    http://localhost:5173
+    http://localhost:5174
     
+6. To Run the Test Cases:     
+
+    npm run test
