@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import "../styles/Carousel.css";
-
+import React from "react";
 const Carousel = ({ step, currentStep, steps, handleOptionClick }) => {
   return (
     <div className="carousel">

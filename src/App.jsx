@@ -3,6 +3,7 @@ import { useState } from "react";
 import "./App.css";  
 import Summary from "./components/Summary";
 import Carousel from "./components/Carousel"; 
+import React from "react";
 
 const App = () => {
   const [currentStep, setCurrentStep] = useState(0); 

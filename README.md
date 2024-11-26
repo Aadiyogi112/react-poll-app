@@ -1,8 +1,45 @@
-# React + Vite
+# React Polling App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web app to conduct a multi-step poll. The app lets users answer a series of questions and then displays a summary of their responses.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+<!-- - [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license) -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+This app allows users to go through a set of questions in a poll format. The questions are dynamically displayed, and users can select answers represented by emojis. Once the survey is completed, a summary of the user's responses is shown.
+
+## Installation
+
+To get started, follow these steps to install and run the app locally:
+
+### Prerequisites
+
+Make sure you have **Node.js** and **npm** installed. You can download and install them from [nodejs.org](https://nodejs.org/).
+
+### Steps to Install
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/react-polling-app.git
+
+2. Navigate into the project directory:
+
+    cd react-polling-app
+3. Install the required dependencies:
+
+    npm install
+
+4. Start the development server:
+
+    npm run dev    
+
+5. Open your browser and go to: 
+
+    http://localhost:5173
+    
